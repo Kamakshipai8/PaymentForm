@@ -1,0 +1,25 @@
+h2{
+    color:brown;
+}
+pre{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+
+}
+nav a{
+color:white;
+font-weight:bold;
+text-decoration: none;
+font-family: 'Times New Roman', Times, serif; 
+float: left;  
+padding: 20px; 
+text-align:center;
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+nav a:hover{
+    color:aqua;
+}
